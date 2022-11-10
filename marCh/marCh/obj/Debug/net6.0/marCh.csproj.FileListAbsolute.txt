@@ -1,0 +1,15 @@
+C:\Users\marina\Documents\marina\study\NetCore\marCh\marCh\bin\Debug\net6.0\marCh.exe
+C:\Users\marina\Documents\marina\study\NetCore\marCh\marCh\bin\Debug\net6.0\marCh.deps.json
+C:\Users\marina\Documents\marina\study\NetCore\marCh\marCh\bin\Debug\net6.0\marCh.runtimeconfig.json
+C:\Users\marina\Documents\marina\study\NetCore\marCh\marCh\bin\Debug\net6.0\marCh.dll
+C:\Users\marina\Documents\marina\study\NetCore\marCh\marCh\bin\Debug\net6.0\marCh.pdb
+C:\Users\marina\Documents\marina\study\NetCore\marCh\marCh\obj\Debug\net6.0\marCh.csproj.AssemblyReference.cache
+C:\Users\marina\Documents\marina\study\NetCore\marCh\marCh\obj\Debug\net6.0\marCh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marina\Documents\marina\study\NetCore\marCh\marCh\obj\Debug\net6.0\marCh.AssemblyInfoInputs.cache
+C:\Users\marina\Documents\marina\study\NetCore\marCh\marCh\obj\Debug\net6.0\marCh.AssemblyInfo.cs
+C:\Users\marina\Documents\marina\study\NetCore\marCh\marCh\obj\Debug\net6.0\marCh.csproj.CoreCompileInputs.cache
+C:\Users\marina\Documents\marina\study\NetCore\marCh\marCh\obj\Debug\net6.0\marCh.dll
+C:\Users\marina\Documents\marina\study\NetCore\marCh\marCh\obj\Debug\net6.0\refint\marCh.dll
+C:\Users\marina\Documents\marina\study\NetCore\marCh\marCh\obj\Debug\net6.0\marCh.pdb
+C:\Users\marina\Documents\marina\study\NetCore\marCh\marCh\obj\Debug\net6.0\marCh.genruntimeconfig.cache
+C:\Users\marina\Documents\marina\study\NetCore\marCh\marCh\obj\Debug\net6.0\ref\marCh.dll
