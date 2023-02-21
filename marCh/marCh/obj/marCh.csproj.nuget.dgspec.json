@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marina\\Documents\\marina\\study\\NetCore\\marCh\\marCh\\marCh.csproj": {}
+    "C:\\Users\\marina\\Documents\\marina\\study\\GIT\\CSharp\\marCh\\marCh\\marCh.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marina\\Documents\\marina\\study\\NetCore\\marCh\\marCh\\marCh.csproj": {
+    "C:\\Users\\marina\\Documents\\marina\\study\\GIT\\CSharp\\marCh\\marCh\\marCh.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marina\\Documents\\marina\\study\\NetCore\\marCh\\marCh\\marCh.csproj",
+        "projectUniqueName": "C:\\Users\\marina\\Documents\\marina\\study\\GIT\\CSharp\\marCh\\marCh\\marCh.csproj",
         "projectName": "marCh",
-        "projectPath": "C:\\Users\\marina\\Documents\\marina\\study\\NetCore\\marCh\\marCh\\marCh.csproj",
+        "projectPath": "C:\\Users\\marina\\Documents\\marina\\study\\GIT\\CSharp\\marCh\\marCh\\marCh.csproj",
         "packagesPath": "C:\\Users\\marina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marina\\Documents\\marina\\study\\NetCore\\marCh\\marCh\\obj\\",
+        "outputPath": "C:\\Users\\marina\\Documents\\marina\\study\\GIT\\CSharp\\marCh\\marCh\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

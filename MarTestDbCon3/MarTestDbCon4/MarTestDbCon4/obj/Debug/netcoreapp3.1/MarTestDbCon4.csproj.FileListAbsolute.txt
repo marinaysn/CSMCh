@@ -1,0 +1,5 @@
+C:\Users\marina\Documents\marina\study\GIT\CSharp\MarTestDbCon3\MarTestDbCon4\MarTestDbCon4\obj\Debug\netcoreapp3.1\MarTestDbCon4.csproj.AssemblyReference.cache
+C:\Users\marina\Documents\marina\study\GIT\CSharp\MarTestDbCon3\MarTestDbCon4\MarTestDbCon4\obj\Debug\netcoreapp3.1\MarTestDbCon4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marina\Documents\marina\study\GIT\CSharp\MarTestDbCon3\MarTestDbCon4\MarTestDbCon4\obj\Debug\netcoreapp3.1\MarTestDbCon4.AssemblyInfoInputs.cache
+C:\Users\marina\Documents\marina\study\GIT\CSharp\MarTestDbCon3\MarTestDbCon4\MarTestDbCon4\obj\Debug\netcoreapp3.1\MarTestDbCon4.AssemblyInfo.cs
+C:\Users\marina\Documents\marina\study\GIT\CSharp\MarTestDbCon3\MarTestDbCon4\MarTestDbCon4\obj\Debug\netcoreapp3.1\MarTestDbCon4.csproj.CoreCompileInputs.cache

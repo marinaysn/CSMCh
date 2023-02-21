@@ -1,0 +1,15 @@
+C:\Users\marina\Documents\marina\study\GIT\CSharp\marCh4\marCh4\bin\Debug\net6.0\marCh4.exe
+C:\Users\marina\Documents\marina\study\GIT\CSharp\marCh4\marCh4\bin\Debug\net6.0\marCh4.deps.json
+C:\Users\marina\Documents\marina\study\GIT\CSharp\marCh4\marCh4\bin\Debug\net6.0\marCh4.runtimeconfig.json
+C:\Users\marina\Documents\marina\study\GIT\CSharp\marCh4\marCh4\bin\Debug\net6.0\marCh4.dll
+C:\Users\marina\Documents\marina\study\GIT\CSharp\marCh4\marCh4\bin\Debug\net6.0\marCh4.pdb
+C:\Users\marina\Documents\marina\study\GIT\CSharp\marCh4\marCh4\obj\Debug\net6.0\marCh4.csproj.AssemblyReference.cache
+C:\Users\marina\Documents\marina\study\GIT\CSharp\marCh4\marCh4\obj\Debug\net6.0\marCh4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marina\Documents\marina\study\GIT\CSharp\marCh4\marCh4\obj\Debug\net6.0\marCh4.AssemblyInfoInputs.cache
+C:\Users\marina\Documents\marina\study\GIT\CSharp\marCh4\marCh4\obj\Debug\net6.0\marCh4.AssemblyInfo.cs
+C:\Users\marina\Documents\marina\study\GIT\CSharp\marCh4\marCh4\obj\Debug\net6.0\marCh4.csproj.CoreCompileInputs.cache
+C:\Users\marina\Documents\marina\study\GIT\CSharp\marCh4\marCh4\obj\Debug\net6.0\marCh4.dll
+C:\Users\marina\Documents\marina\study\GIT\CSharp\marCh4\marCh4\obj\Debug\net6.0\refint\marCh4.dll
+C:\Users\marina\Documents\marina\study\GIT\CSharp\marCh4\marCh4\obj\Debug\net6.0\marCh4.pdb
+C:\Users\marina\Documents\marina\study\GIT\CSharp\marCh4\marCh4\obj\Debug\net6.0\marCh4.genruntimeconfig.cache
+C:\Users\marina\Documents\marina\study\GIT\CSharp\marCh4\marCh4\obj\Debug\net6.0\ref\marCh4.dll
